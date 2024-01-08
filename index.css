@@ -301,9 +301,11 @@ main section {
 }
 
 .portfolio {
+    width: 103%;
     display: flex;
     flex-wrap: wrap;
     gap: 14px;
+   
 }
 
 .portfolio-item img {
