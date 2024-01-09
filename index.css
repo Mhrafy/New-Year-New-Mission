@@ -271,6 +271,7 @@ main section {
 .holiday-sale-pic .rectangle2 {
     position: absolute;
     bottom: 0;
+    
 }
 
 .holiday-sale-pic .grp-75 {
@@ -301,8 +302,9 @@ main section {
 }
 
 .portfolio {
-    width: 103%;
+    width: 103%;  
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     gap: 14px;
    
@@ -310,7 +312,6 @@ main section {
 
 .portfolio-item img {
     border-radius: 16px;
-    transition: all 0.2s ease;
 }
 
 
