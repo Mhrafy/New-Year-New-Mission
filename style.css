@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    width: 82.5%;
+    width: 89%;
     max-width: 1320px;
     margin: 0 auto;
 }
@@ -321,6 +321,11 @@ main section {
 
 .portfolio-item img {
     border-radius: 16px;
+    flex-direction: row;
+}
+
+.portfolio-item1:hover {
+    
 }
 
 
