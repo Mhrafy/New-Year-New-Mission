@@ -256,7 +256,6 @@ main section {
 }
 
 .holiday-sale .section-description {
-    max-width: 1000px;
     width: 75.76%;
     margin: 0 auto;
     margin-bottom: 64px;
@@ -271,6 +270,7 @@ main section {
 .holiday-sale-pic .rectangle2 {
     position: absolute;
     bottom: 0;
+    right: 0;
     
 }
 
@@ -283,12 +283,13 @@ main section {
     position: absolute;
     top: 0;
     right: 0;
+    
 }
 
 .holiday-sale-pic .grp-44 {
     position: absolute;
-    top: 4rem;
-    right: 16rem;
+    top: 64px;
+    right: 256px;
 }
 
 .holiday-sale {
